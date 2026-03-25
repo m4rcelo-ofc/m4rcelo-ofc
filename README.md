@@ -56,22 +56,6 @@ Trabalho com o ciclo completo de desenvolvimento de software — da **abstraçã
 ### Outros
 ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Marcelo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=m4rcelo-ofc&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m4rcelo-ofc&layout=compact&theme=tokyonight&hide_border=true&langs_count=10)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=m4rcelo-ofc&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🔗 Onde me encontrar
 
 <div align="center">
